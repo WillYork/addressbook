@@ -24,7 +24,7 @@ The frontend of the project uses the following dependencies:
 Locate the correct repo:
 
 ```bash
-cd backend/app
+cd backend
 ```
 
 Install all of the prerequisite dependencies specified in the previous section by running the following command:
