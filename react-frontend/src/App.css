@@ -1,0 +1,44 @@
+.app {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.app-header {
+  max-height: 130vh;
+}
+
+.address-list {
+  display:flex;
+  flex-direction: inherit;
+}
+
+.new-entry {
+  display: flex;
+  flex-direction: column;
+}
+
+.address-card {
+  background-color: #1f2227;
+  font-size: 80%;
+  padding: 10px;
+  margin: 10px;
+}
+
+ul {
+  padding: 0;
+  list-style-type: none;
+}
+
+a:link {
+  color: white;
+}
+
+a:visited {
+  color: grey
+}
